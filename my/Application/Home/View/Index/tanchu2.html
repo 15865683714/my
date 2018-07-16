@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>电子商城</title>
+  <style type="text/css">
+  #liebiao{
+    margin:auto 10% ;
+  }
+    #bowen{
+      text-align: center;
+      width: 700px;
+    }
+    .gongju_huanjing,.jieshao{
+      /*text-align: center;*/
+      font-size: 10px;
+      text-align: left;
+      text-indent:2em
+    }
+    .zhize{
+      /*width: 300px;*/
+      text-align: left;
+      /*font-size: 17px;*/
+      color: green;
+      text-indent:2em
+    }
+  </style>
+</head>
+<body>
+  <div id="liebiao">
+      <volist name="data" key="k" id="v">
+        <div class="jingli time_1" id="bowen">
+             <h3 class="name">{$v.name}</h3>
+            <span class="gongju_huanjing">开发及环境：{$v.gongju_huanjing}&emsp;</span><br>
+            <p class="jieshao">{$v.jieshao}</p>
+            <p class="zhize">{$v.zhize}</p>
+        </div>
+      </volist>
+  </div>
+</body>
+</html>

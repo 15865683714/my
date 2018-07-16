@@ -1,0 +1,670 @@
+[ 2018-03-28T00:00:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002506s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0726s ]
+
+[ 2018-03-28T00:01:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002689s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0326s ]
+
+[ 2018-03-28T00:02:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002051s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0339s ]
+
+[ 2018-03-28T00:07:11+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0466s ]
+
+[ 2018-03-28T00:07:31+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0313s ]
+
+[ 2018-03-28T00:07:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001824s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0444s ]
+
+[ 2018-03-28T00:07:39+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002217s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.1075s ]
+
+[ 2018-03-28T00:09:14+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002316s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0611s ]
+
+[ 2018-03-28T00:10:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0314s ]
+
+[ 2018-03-28T00:11:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002334s ]
+
+[ 2018-03-28T00:14:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0329s ]
+NOTIC: [8] Undefined variable: id E:\WWW\my\Application\Admin\Controller\ManagerController.class.php 第 55 行.
+SQL: UPDATE `my_jianjie` SET `title`='1212',`content`='12312312312312312312312312312312312' WHERE `id` = null [ RunTime:0.0007s ]
+
+[ 2018-03-28T00:18:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0679s ]
+NOTIC: [8] Undefined variable: id E:\WWW\my\Application\Admin\Controller\ManagerController.class.php 第 55 行.
+SQL: UPDATE `my_jianjie` SET `title`='2234',`content`='12312312312312312312312312312312312' WHERE `id` = null [ RunTime:0.0004s ]
+
+[ 2018-03-28T00:23:41+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002171s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0402s ]
+
+[ 2018-03-28T00:24:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001723s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0342s ]
+
+[ 2018-03-28T00:25:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0452s ]
+
+[ 2018-03-28T00:36:14+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002170s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0463s ]
+
+[ 2018-03-28T01:11:13+08:00 ] 127.0.0.1 /index.php/Admin/Managerdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载控制器:Managerdel
+
+[ 2018-03-28T01:13:09+08:00 ] 127.0.0.1 /index.php/Admin/Managerdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002966s ]
+ERR: 无法加载控制器:Managerdel
+
+[ 2018-03-28T01:15:35+08:00 ] 127.0.0.1 /index.php/Admin/Managerdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003667s ]
+ERR: 无法加载控制器:Managerdel
+
+[ 2018-03-28T01:16:45+08:00 ] 127.0.0.1 /index.php/Admin/Managerdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002885s ]
+ERR: 无法加载控制器:Managerdel
+
+[ 2018-03-28T01:17:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001830s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0664s ]
+SQL: INSERT INTO `my_jianjie` (`title`,`content`,`time`) VALUES ('1231231123123','12312312','2018-03-28 01:17:01') [ RunTime:0.0009s ]
+
+[ 2018-03-28T01:17:06+08:00 ] 127.0.0.1 /index.php/Admin/Managerdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003488s ]
+ERR: 无法加载控制器:Managerdel
+
+[ 2018-03-28T01:20:13+08:00 ] 127.0.0.1 /index.php/Admin/Managerdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001597s ]
+ERR: 无法加载控制器:Managerdel
+
+[ 2018-03-28T01:20:15+08:00 ] 127.0.0.1 /index.php/Admin/Managerdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001775s ]
+ERR: 无法加载控制器:Managerdel
+
+[ 2018-03-28T01:20:23+08:00 ] 127.0.0.1 /index.php/Admin/Managerdel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001324s ]
+ERR: 无法加载控制器:Managerdel
+
+[ 2018-03-28T01:21:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002377s ]
+
+[ 2018-03-28T01:21:20+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001805s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0526s ]
+SQL: DELETE FROM `my_jianjie` WHERE `id` = 18 [ RunTime:0.0320s ]
+ERR: 1146:Table 'my.my_permission' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `my_permission`
+ERR: 1146:Table 'my.my_permission' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `my_permission`
+
+[ 2018-03-28T01:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001929s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0453s ]
+SQL: DELETE FROM `my_jianjie` WHERE `id` = 18 [ RunTime:0.0005s ]
+
+[ 2018-03-28T01:22:11+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002149s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.1411s ]
+SQL: DELETE FROM `my_jianjie` WHERE `id` = 17 [ RunTime:0.0010s ]
+
+[ 2018-03-28T01:22:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0322s ]
+SQL: DELETE FROM `my_jianjie` WHERE `id` = 16 [ RunTime:0.0007s ]
+
+[ 2018-03-28T01:22:30+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001872s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0450s ]
+SQL: DELETE FROM `my_jianjie` WHERE `id` = 15 [ RunTime:0.0010s ]
+
+[ 2018-03-28T01:22:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.1191s ]
+SQL: INSERT INTO `my_jianjie` (`title`,`content`,`time`) VALUES ('1231231','123123','2018-03-28 01:22:50') [ RunTime:0.0006s ]
+
+[ 2018-03-28T01:23:14+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002058s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:1.6327s ]
+SQL: DELETE FROM `my_jianjie` WHERE `id` = 19 [ RunTime:0.0007s ]
+
+[ 2018-03-28T01:23:14+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0336s ]
+SQL: DELETE FROM `my_jianjie` WHERE `id` = 19 [ RunTime:0.0006s ]
+
+[ 2018-03-28T01:23:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001545s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0328s ]
+SQL: DELETE FROM `my_jianjie` WHERE `id` = 19 [ RunTime:0.0004s ]
+
+[ 2018-03-28T09:03:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002311s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0306s ]
+
+[ 2018-03-28T09:05:20+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003714s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0516s ]
+
+[ 2018-03-28T09:06:19+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002588s ]
+
+[ 2018-03-28T09:07:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002782s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0645s ]
+
+[ 2018-03-28T09:07:42+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002610s ]
+
+[ 2018-03-28T09:12:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+
+[ 2018-03-28T09:12:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002635s ]
+
+[ 2018-03-28T09:13:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002845s ]
+
+[ 2018-03-28T09:14:11+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002597s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0528s ]
+SQL: UPDATE `my_jianjie` SET `title`='22232323',`content`='12312312312312312312312312312312312' WHERE `id` = 1 [ RunTime:0.0197s ]
+
+[ 2018-03-28T09:14:20+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002891s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0441s ]
+SQL: UPDATE `my_jianjie` SET `title`='344343',`content`='选是傻吊' WHERE `id` = 2 [ RunTime:0.0008s ]
+
+[ 2018-03-28T09:47:30+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001615s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0331s ]
+SQL: UPDATE `my_jianjie` SET `title`='正则',`content`='正则表达式中的两种形式：
+g：代表全局匹配，匹配出所有满足条件的结果，不加g第一次匹配成功后，正则对象就停止向下匹配。
+i：代表忽略大小写，匹配时会自动忽略字符串的大小写' WHERE `id` = 13 [ RunTime:0.0015s ]
+
+[ 2018-03-28T10:25:09+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: 无法加载控制器:Login
+
+[ 2018-03-28T10:25:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:26:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:28:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:31:12+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:32:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:32:29+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:32:40+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:32:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:33:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:33:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:33:24+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:34:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:36:09+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:36:12+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha
+ERR: 非法操作:captcha
+
+[ 2018-03-28T10:48:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+
+[ 2018-03-28T10:48:53+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+
+[ 2018-03-28T10:49:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001265s ]
+ERR: 1146:Table 'my.my_manager' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `my_manager`
+ERR: 1146:Table 'my.my_manager' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `my_manager`
+
+[ 2018-03-28T10:49:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+
+[ 2018-03-28T10:50:08+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+
+[ 2018-03-28T10:50:30+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+
+[ 2018-03-28T10:50:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001328s ]
+
+[ 2018-03-28T10:51:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+
+[ 2018-03-28T10:51:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001956s ]
+
+[ 2018-03-28T10:51:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+
+[ 2018-03-28T10:52:30+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002095s ]
+
+[ 2018-03-28T10:52:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+
+[ 2018-03-28T10:53:38+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+
+[ 2018-03-28T10:53:40+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+
+[ 2018-03-28T10:55:23+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: syntax error, unexpected '$info' (T_VARIABLE), expecting function (T_FUNCTION)
+
+[ 2018-03-28T10:55:41+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001286s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0393s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-03-28T10:57:34+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+
+[ 2018-03-28T10:57:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+
+[ 2018-03-28T10:58:29+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002088s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0601s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-03-28T10:58:30+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002284s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0337s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-03-28T10:58:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0395s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-03-28T10:59:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002447s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0482s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-03-28T11:14:08+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2018-03-28T11:14:27+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2018-03-28T11:14:28+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2018-03-28T11:15:01+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: syntax error, unexpected '$check' (T_VARIABLE)
+
+[ 2018-03-28T11:15:02+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: syntax error, unexpected '$check' (T_VARIABLE)
+
+[ 2018-03-28T11:15:05+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2018-03-28T11:15:29+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002078s ]
+
+[ 2018-03-28T11:15:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001783s ]
+
+[ 2018-03-28T11:15:40+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001651s ]
+
+[ 2018-03-28T11:16:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+
+[ 2018-03-28T11:16:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003730s ]
+
+[ 2018-03-28T11:17:08+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012733s ]
+
+[ 2018-03-28T11:18:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003709s ]
+
+[ 2018-03-28T11:18:41+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+
+[ 2018-03-28T11:19:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002487s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0353s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-03-28T11:19:38+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006491s ]
+
+[ 2018-03-28T11:19:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0517s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-03-28T11:22:40+08:00 ] 127.0.0.1 /index.php/Admin/Manager/article-list.html
+ERR: 非法操作:article-list
+
+[ 2018-03-28T11:23:40+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001920s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0302s ]
+SQL: INSERT INTO `my_jianjie` (`title`,`content`,`time`) VALUES ('1231123','1231231231','2018-03-28 11:23:40') [ RunTime:0.0013s ]
+
+[ 2018-03-28T11:28:46+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002675s ]
+
+[ 2018-03-28T11:30:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006284s ]
+
+[ 2018-03-28T11:34:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001875s ]
+
+[ 2018-03-28T11:36:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002839s ]
+
+[ 2018-03-28T11:36:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001874s ]
+
+[ 2018-03-28T11:36:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001646s ]
+
+[ 2018-03-28T11:37:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002344s ]
+
+[ 2018-03-28T11:37:42+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002423s ]
+
+[ 2018-03-28T11:38:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003650s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0416s ]
+SQL: INSERT INTO `my_jianjie` (`username`,`title`,`content`,`time`) VALUES ('赵传伟','99998','898989','2018-03-28 11:38:29') [ RunTime:0.0007s ]
+
+[ 2018-03-28T11:50:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0432s ]
+SQL: UPDATE `my_jianjie` SET `title`='什么是MVC?',`content`='MVC是一种软件架构的思想，将软件按照模型、视图、控制器来划分。模型负责封装业务处理逻辑，视图负责输入和输出(表示逻辑)，控制器负责协调模型和视图。' WHERE `id` = 21 [ RunTime:0.0008s ]
+
+[ 2018-03-28T11:59:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0362s ]
+SQL: UPDATE `my_jianjie` SET `title`='什么是MVC?',`content`='MVC是一种软件架构的思想，将软件按照模型、视图、控制器来划分。模型负责封装业务处理逻辑，视图负责输入和输出(表示逻辑)，控制器负责协调模型和视图。模型：
+封装：需要先写接口,然后实现接口中声明的方法。
+业务处理逻辑：业务本身的处理流程，另外，还包括
+为保证业务处理正常可靠执行的基础服务(事务、安全、
+日志等等)。
+视图:输入：提供相应的操作界面，方便用户使用。输出：将模型返回的结果以合适的方式来展现。控制器:协调: 视图向控制器发请求，由控制器来选择相应的模型来处理；模型返回的结果给控制器，由控制器来选择合适的视图，生成相应的界面给用户。' WHERE `id` = 21 [ RunTime:0.0008s ]
+
+[ 2018-03-28T12:00:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0304s ]
+SQL: UPDATE `my_jianjie` SET `title`='MVC的最大优点',`content`='可以实现模型的复用：一方面，模型只返回处理结果，并不用关心这些结果如何展现。我们可以提供不同的视图来展现这些数据；另外一方面，对于同一个模型，我们可以提供不同的操作界面来访问。' WHERE `id` = 20 [ RunTime:0.0008s ]
+
+[ 2018-03-28T15:00:44+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003147s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.1337s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-03-28T15:12:02+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002189s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0421s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2018-03-28T15:27:39+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002861s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0483s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-03-28T15:28:23+08:00 ] 127.0.0.1 /index.php/Admin/login/login
+ERR: syntax error, unexpected 'empty' (T_EMPTY)
+
+[ 2018-03-28T15:28:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001909s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0356s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-03-28T15:31:30+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001996s ]
+
+[ 2018-03-28T15:31:44+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001956s ]
+
+[ 2018-03-28T15:31:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004441s ]
+SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.0687s ]
+SQL: SELECT * FROM `my_user` WHERE `account` = 'wei' LIMIT 1   [ RunTime:0.0008s ]
+

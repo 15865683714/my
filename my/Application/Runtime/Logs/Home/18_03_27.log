@@ -1,0 +1,38 @@
+[ 2018-03-27T00:32:47+08:00 ] 127.0.0.1 /
+ERR: Call to undefined function Home\Controller\dd()
+
+[ 2018-03-27T00:35:40+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-03-27T00:36:31+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-03-27T00:36:32+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-03-27T00:36:40+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-03-27T00:36:41+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-03-27T00:36:41+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-03-27T00:36:42+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-03-27T00:51:23+08:00 ] 127.0.0.1 /
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by' at line 1
+ [ SQL语句 ] : SELECT * FROM `my_jianjie` ORDER BY by 
+
+[ 2018-03-27T00:51:32+08:00 ] 127.0.0.1 /
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by' at line 1
+ [ SQL语句 ] : SELECT * FROM `my_jianjie` ORDER BY by 
+
+[ 2018-03-27T21:57:26+08:00 ] 127.0.0.1 /index.php/home/tanchu
+ERR: 无法加载控制器:Tanchu
+
+[ 2018-03-27T21:57:34+08:00 ] 127.0.0.1 /index.php/home/tanchu.html
+ERR: 无法加载控制器:Tanchu
+

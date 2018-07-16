@@ -1,0 +1,6 @@
+[ 2018-07-15T16:52:30+08:00 ] 127.0.0.1 /index.php/Admin/User/ajax_action
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003484s ]
+ERR: 无法加载控制器:User
+

@@ -1,0 +1,177 @@
+[ 2018-03-27T22:32:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/admin-role-add.html
+ERR: 非法操作:admin-role-add
+
+[ 2018-03-27T22:44:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/admin-role-add.html
+ERR: 非法操作:admin-role-add
+
+[ 2018-03-27T23:14:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit.html/id
+ERR: 非法操作:edit.html
+
+[ 2018-03-27T23:14:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit.html/id
+ERR: 非法操作:edit.html
+
+[ 2018-03-27T23:18:51+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index.html
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2018-03-27T23:18:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index.html
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2018-03-27T23:19:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index.html
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2018-03-27T23:20:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/4
+ERR: Call to undefined function Admin\Controller\find()
+
+[ 2018-03-27T23:40:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001502s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0563s ]
+SQL: INSERT INTO `my_jianjie` (`title`,`content`,`time`) VALUES ('111','222555','2018-03-27 23:40:27') [ RunTime:0.0182s ]
+
+[ 2018-03-27T23:40:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0767s ]
+SQL: INSERT INTO `my_jianjie` (`title`,`content`,`time`) VALUES ('111','222555','2018-03-27 23:40:38') [ RunTime:0.0006s ]
+
+[ 2018-03-27T23:41:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0461s ]
+SQL: INSERT INTO `my_jianjie` (`title`,`content`,`time`) VALUES ('234234','23423423玩儿翁','2018-03-27 23:41:28') [ RunTime:0.0006s ]
+
+[ 2018-03-27T23:42:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+
+[ 2018-03-27T23:42:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002329s ]
+
+[ 2018-03-27T23:42:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001495s ]
+
+[ 2018-03-27T23:42:46+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+
+[ 2018-03-27T23:42:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+
+[ 2018-03-27T23:42:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001419s ]
+
+[ 2018-03-27T23:44:51+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0317s ]
+
+[ 2018-03-27T23:44:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001523s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0306s ]
+
+[ 2018-03-27T23:45:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0760s ]
+
+[ 2018-03-27T23:45:16+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001846s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0311s ]
+
+[ 2018-03-27T23:45:17+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0304s ]
+
+[ 2018-03-27T23:45:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002159s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0572s ]
+
+[ 2018-03-27T23:49:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001744s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0323s ]
+
+[ 2018-03-27T23:49:20+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0389s ]
+
+[ 2018-03-27T23:50:08+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0443s ]
+
+[ 2018-03-27T23:51:31+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.1461s ]
+
+[ 2018-03-27T23:51:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0341s ]
+
+[ 2018-03-27T23:52:40+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0286s ]
+
+[ 2018-03-27T23:52:42+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001712s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0371s ]
+
+[ 2018-03-27T23:52:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001758s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0297s ]
+
+[ 2018-03-27T23:53:46+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0467s ]
+
+[ 2018-03-27T23:53:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001760s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0377s ]
+
+[ 2018-03-27T23:59:57+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001353s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0315s ]
+

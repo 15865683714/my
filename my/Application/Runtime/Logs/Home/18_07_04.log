@@ -1,0 +1,267 @@
+[ 2018-07-04T23:44:41+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001997s ]
+
+[ 2018-07-04T23:44:48+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005450s ]
+
+[ 2018-07-04T23:45:16+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002760s ]
+
+[ 2018-07-04T23:45:17+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002634s ]
+
+[ 2018-07-04T23:45:17+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003292s ]
+
+[ 2018-07-04T23:45:17+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002263s ]
+
+[ 2018-07-04T23:45:17+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002359s ]
+
+[ 2018-07-04T23:47:00+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002274s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0029s ]
+
+[ 2018-07-04T23:47:00+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002305s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0025s ]
+
+[ 2018-07-04T23:47:00+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002097s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0026s ]
+
+[ 2018-07-04T23:47:01+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001928s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0037s ]
+
+[ 2018-07-04T23:47:01+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004376s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0025s ]
+
+[ 2018-07-04T23:48:49+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002217s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0038s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:48:49+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002728s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0023s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:48:50+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002486s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0029s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:48:58+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002974s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0476s ]
+SQL: SELECT * FROM `my_jianjie` ORDER BY id desc  [ RunTime:0.0022s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:49:41+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002533s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0015s ]
+
+[ 2018-07-04T23:52:45+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002215s ]
+
+[ 2018-07-04T23:52:46+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002023s ]
+
+[ 2018-07-04T23:52:46+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002109s ]
+
+[ 2018-07-04T23:52:46+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002927s ]
+
+[ 2018-07-04T23:52:47+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002192s ]
+
+[ 2018-07-04T23:52:47+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002318s ]
+
+[ 2018-07-04T23:52:48+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002435s ]
+
+[ 2018-07-04T23:53:01+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002111s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0018s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:01+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002186s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0016s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:01+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002302s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.1197s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0012s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:06+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002132s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0418s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0014s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:06+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002568s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0014s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:07+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002467s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0565s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0011s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:07+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002184s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0013s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:07+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4?id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002637s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0508s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0015s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:33+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002199s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0220s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0013s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:34+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002227s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0455s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0013s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:34+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002116s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0012s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:34+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002785s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0016s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:36+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002991s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0013s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:37+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002112s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0188s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0012s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:53:42+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002317s ]
+SQL: SHOW COLUMNS FROM `my_jianjie` [ RunTime:0.0699s ]
+SQL: SELECT * FROM `my_jianjie`  [ RunTime:0.0019s ]
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+
+[ 2018-07-04T23:54:29+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu4
+ERR: 模板不存在:./Application/Home/View/Index/tanchu4.html
+

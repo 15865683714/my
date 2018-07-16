@@ -1,0 +1,11 @@
+[ 2018-03-28T17:17:20+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '=', expecting ',' or ')'
+
+[ 2018-03-28T17:19:14+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>2 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `my_xiangmu` WHERE (  id=>2 ) 
+
+[ 2018-03-28T17:19:27+08:00 ] 127.0.0.1 /index.php/Home/Index/tanchu2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `my_xiangmu` WHERE (  id=>1 ) 
+
